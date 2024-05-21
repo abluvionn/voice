@@ -19,7 +19,7 @@ This project is a simple voice recognition assistant built with Python using the
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/voice-recognition-assistant.git
+    git clone https://github.com/abluvionn/voice.git
     cd voice-recognition-assistant
     ```
 
